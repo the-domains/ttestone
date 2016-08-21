@@ -1,0 +1,15 @@
+typography_spectrum: 0.4820789
+color:
+  saturation: 0.1971326
+  lightness: 0.08422939
+  brandStrength: 0.5555556
+  brandColors:
+    - '#000000'
+    - '#D0AF22'
+    - '#2A2408'
+    - '#3D340B'
+    - '#5C4C13'
+  rhythmicContrast: 0.3261649
+layout_spectrum: 0.265233
+name: TTestOne
+title: Test Post
